@@ -10,18 +10,6 @@
 <br>
 <h3>✨ I have worked with </h3>
 <p>💎 HTML5, CSS3, Bootstrap, Javascipt, jQuery, AJAX, PHP, Payment Integration, MySQL, MariaDB</p>
-<!--<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Javascript</li>
-  <li>Bootstrap</li>
-  <li>jQuery</li>
-  <li>AJAX</li>
-  <li>PHP</li>
-  <li>Payment Integration</li>
-  <li>MySQL</li>
-  <li>MariaDB</li>
-</ul>-->
 <br>
 <h3>🎨 What am I learning currently?</h3>
 <p>🌼 At the moment I'm learning <b>React.js</b></p><br><br>
