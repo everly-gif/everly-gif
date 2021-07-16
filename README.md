@@ -12,7 +12,7 @@
 <p>💎 HTML5, CSS3, Bootstrap, Javascipt, jQuery, AJAX, PHP, Payment Integration, MySQL, MariaDB</p>
 <br>
 <h3>🎨 What am I learning currently?</h3>
-<p>🌼 At the moment I'm learning MERN stack<b>by making a project</b></p><br><br>
+<p>🌼 At the moment I'm learning  <b> MERN stack by making a project</b></p><br><br>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=everly-gif" alt="everly-gif"> </p><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&layout=compact" alt="everly-gif" > </p><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p><br>
