@@ -14,7 +14,7 @@
 <h3>🎨 What am I learning currently?</h3>
 <p>🌼 At the moment I'm mastering my  <b> coding skills.</b></p><br><br>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif"> </p><br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&layout=compact" alt="everly-gif" > </p><br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=8&layout=compact" alt="everly-gif" > </p><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p><br>
 <!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=everly-gif&theme=light" alt="everly-gif" width="70%"></p><br><br>-->
 <!---
