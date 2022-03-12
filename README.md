@@ -29,7 +29,9 @@
 <p>At the moment I'm mastering my  <b> coding skills</b>. Learning new algos and giving coding contests to improve my problem solving skills🚀</p>
 <h3 align="left">Know my stats 👀</h3>
 <img  src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif"><br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p><br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p><br>  
+<h3 align="center"> 📈 My Contribuition Graph </h3>
+ <a href="https://github.com/everly-gif"><img src="https://activity-graph.herokuapp.com/graph?username=everly-gif&theme=elegant" alt="Everly Precia Suresh's GitHub Activity Graph"></a><br/><br/> 
 <h3 align="center">Streaks 🔥</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=everly-gif&theme=light" alt="everly-gif" width="70%"></p><br><br>
 <!---
