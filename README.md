@@ -22,7 +22,7 @@
     <li>OS-Linux</li>
     <li>Platform and tools- Git, Github</li>
   </ul></div> 
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=8&layout=compact" alt="everly-gif" ></div>
+<div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
 </div>
 <br>
 <h3>🎨 What am I learning currently?</h3>
