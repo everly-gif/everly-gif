@@ -14,16 +14,15 @@
 </ul>
 <br>
 <h3>✨ I have worked with </h3>
-<div style="display:flex;">
-  <div><ul>
+<div>
+   <ul>
     <li>Web - HTML5, CSS3, Bootstrap, Javascipt,Reactjs jQuery, AJAX, PHP, Payment Integration, MySQL, MariaDB</li>
     <li>Core Languages - C, C++, Java , Python , Ruby</li>
     <li>Cloud- AWS, GCP, Azure</li>
     <li>OS-Linux</li>
     <li>Platform and tools- Git, Github</li>
-  </ul></div> 
+  </ul> </div>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
-</div>
 <br>
 <h3>🎨 What am I learning currently?</h3>
 <p>At the moment I'm mastering my  <b> coding skills</b>. Learning new algos and giving coding contests to improve my problem solving skills🚀</p>
@@ -38,9 +37,3 @@
 everly-gif/everly-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3>🧿Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->
-- [Appwrite Storage Meets Wasabi Cloud Storage](https://dev.to/appwrite/appwrite-storage-meets-wasabi-cloud-storage-g4p)
-- [Appwrite Storage Meets Linode Object Storage](https://dev.to/appwrite/appwrite-storage-meets-linode-object-storage-e03)
-- [SQL Databases vs MongoDB: A Brief Analysis](https://medium.com/srmscro/mongodb-vs-sql-ab504c427517?source=rss-736a25dc749c------2)
-<!-- BLOG-POST-LIST:END -->
