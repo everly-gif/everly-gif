@@ -30,7 +30,7 @@
 <h3 align="left">Know my stats 👀</h3>
 <img  src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p><br>
-<h3 align="left">Latest Blog Posts 🧿</h3>
+<h3 align="left">🧿 Latest Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br>
