@@ -32,6 +32,9 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p><br>
 <h3 align="left">🧿 Latest Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite Storage Meets Wasabi Cloud Storage](https://dev.to/appwrite/appwrite-storage-meets-wasabi-cloud-storage-g4p)
+- [Appwrite Storage Meets Linode Object Storage](https://dev.to/appwrite/appwrite-storage-meets-linode-object-storage-e03)
+- [SQL Databases vs MongoDB: A Brief Analysis](https://medium.com/srmscro/mongodb-vs-sql-ab504c427517?source=rss-736a25dc749c------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <h3 align="center"> 📈 My Contribution Graph </h3>
