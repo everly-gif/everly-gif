@@ -39,5 +39,8 @@ everly-gif/everly-gif is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h3>🧿Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [Appwrite Storage Meets Wasabi Cloud Storage](https://dev.to/appwrite/appwrite-storage-meets-wasabi-cloud-storage-g4p)
+- [Appwrite Storage Meets Linode Object Storage](https://dev.to/appwrite/appwrite-storage-meets-linode-object-storage-e03)
+- [SQL Databases vs MongoDB: A Brief Analysis](https://medium.com/srmscro/mongodb-vs-sql-ab504c427517?source=rss-736a25dc749c------2)
 <!-- BLOG-POST-LIST:END -->
