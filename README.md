@@ -6,7 +6,7 @@
 <p align="center"><a href="https://everly-precia.netlify.app"><img src="https://badges.pufler.dev/visits/everly-gif/everly-gif"></a></p>
 <ul>
   <li>💼 I'm currently working as a <b>Software Engineer at<a href="https://appwrite.io"> Appwrite</b></a> and a <b>GSoC Student Developer at Apache Software Foundation.</b></li>
-  <li>❤  Priorly I was an <b>GitHub Extern for the Winter Cohort 2022</b></li>
+  <li>❤  Priorly I was a <b>GitHub Extern for the Winter Cohort 2022</b></li>
   <li>👀 I enjoy deploying web applications and interacting with coding communities</li>
   <li>🌱 I have keen interests in Open source, motion design , cloud computing , web development, data analytics and OpenCV.</li>
   <li>💞️ I’m looking forward to collaborate on any emerging technologies. </li>
