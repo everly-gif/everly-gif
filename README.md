@@ -3,7 +3,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/77877486/150798920-8c9ebc5a-6eba-4670-a257-10a7cd777eee.png">
-<p align="center"><a href="https://everly-precia.netlify.app"><img src="https://badges.pufler.dev/visits/everly-gif/everly-gif"></a></p>
 <ul>
   <li>💼 I'm currently working as a <b>Software Engineer (part-time) at<a href="https://appwrite.io"> Appwrite</b></a> and a <b>GSoC Student Developer at Apache Software Foundation.</b></li>
   <li>❤  Priorly I was a <b>GitHub Extern for the Winter Cohort 2022</b></li>
