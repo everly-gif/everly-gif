@@ -22,12 +22,12 @@
     <li>Database - MySQL, MariaDB, Oracle , Postgres</li>
     <li>Cloud - AWS, GCP, Azure</li>
     <li>OS - Linux</li>
-    <li>Platform and tools - Git, Github, Docker</li>
+    <li>Platform and tools - Git, Github, Docker, Maven, AEM</li>
   </ul> </div>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
 <br>
 <h3>🎨 What am I learning currently?</h3>
-<p>At the moment I'm mastering my  <b> coding skills</b>. Learning new algos and giving coding contests to improve my problem solving skills🚀</p>
+<p>At the moment I'm mastering my  <b> coding skills.</b> With my first full time job as a recent graduate out of college, I'm learning as much as I can.🚀</p>
 <h3 align="left">Know my stats 👀</h3>
 <img  src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p>
