@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Everly</h1>
-<h3  align="center">💻 Web developer | 📖 Tech enthusiast </h3>  
+<h3  align="center">💻 Software Engineer | 📖 Tech enthusiast </h3>  
 
 <br>
 <img src="https://user-images.githubusercontent.com/77877486/150798920-8c9ebc5a-6eba-4670-a257-10a7cd777eee.png">
