@@ -41,5 +41,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<div style="display:none">https://github.com/everly-gif/everly-gif/assets/77877486/e043ffd0-e779-4d55-a0cd-d3691911bddb</div>
-
