@@ -17,7 +17,7 @@
 <h3>✨ I have worked with </h3>
 <div>
    <ul>
-    <li>Web - HTML5, CSS3, Bootstrap, Javascipt,Reactjs, jQuery, AJAX, PHP, Node.js + Express.js, Angular, Laravel </li>
+    <li>Web - HTML5, CSS3, Bootstrap, Javascipt, Reactjs, jQuery, AJAX, PHP, Node.js, Express.js, Angular, Laravel </li>
     <li>Core Languages - C, C++, Java </li>
     <li>Database - MySQL, MariaDB, Oracle , Postgres</li>
     <li>Cloud - AWS, GCP, Azure</li>
