@@ -21,8 +21,8 @@
     <li>Core Languages - C, C++, Java </li>
     <li>Database - MySQL, MariaDB, Oracle , Postgres</li>
     <li>Cloud - AWS, GCP, Azure</li>
-    <li>OS - Linux</li>
-    <li>Platform and tools - Git, Github, Docker, Maven, AEM</li>
+     <li>CMS - Adobe Experience Manager(AEM)</li>
+    <li>Platform and tools - Git, Github, Docker</li>
   </ul> </div>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
 <br>
