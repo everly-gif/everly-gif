@@ -4,7 +4,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/77877486/150798920-8c9ebc5a-6eba-4670-a257-10a7cd777eee.png">
 <ul>
-  <li>💼 I'm currently pursuing a <b>Master of Science - MSc in Software Systems Engineering at University College London</b></li>
+  <li>💼 I'm currently pursuing a <b>Master of Science - MSc in Software Systems Engineering Degree at University College London</b></li>
   <li>❤  Priorly I was a SDE 2 at Bajaj Markets, <b>GitHub Extern for the Winter Cohort 2022, Software Engineer (part-time) for Appwrite after the GitHub externship </b> and a <b>GSoC'22 Student Developer at Apache Software Foundation.</b><br>(There are other companies I worked with where I learnt and contributed plenty during my time there, if you are interested to know more please check me out on Linkedin)</li>
   <li>👀 I enjoy deploying web applications and interacting with coding communities</li>
   <li>🌱 I have keen interests in Open source, motion design , cloud computing , web development, data analytics and OpenCV.</li>
@@ -27,7 +27,7 @@
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everly-gif&show_icons=true&locale=en&langs_count=10&layout=compact" alt="everly-gif" ></div>
 <br>
 <h3>🎨 What am I learning currently?</h3>
-<p>At the moment I'm mastering my  <b> coding skills.</b> With my first full time job as a recent graduate out of college, I'm learning and contributing as much as I can.🚀</p>
+<p>At the moment I'm mastering my  <b> coding skills.</b> I'm also exploring innovative domains such as generative AI, data analytics, OpenCV, and cloud computing outside my degree.🚀</p>
 <h3 align="left">Know my stats 👀</h3>
 <img  src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p>
