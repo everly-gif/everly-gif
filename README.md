@@ -10,7 +10,6 @@
   <li>🌱 I have keen interests in Open source, cloud computing , web development, data analytics and data engineering.</li>
   <li>💞️ I’m looking forward to collaborate on any emerging technologies. </li>
   <li>😸 I love learning/exploring upcoming and trending technologies and always look forward to implement some cool project ideas on the same.</li>
-  <li>📫 If you have a project idea in mind, hit me up! let's develop something cool together !!</li>
   <li>🎄 Connect with me on linkedin <a  href="https://www.linkedin.com/in/everly-precia-suresh-196bba1b7/" target="black" alt=KXDLS> <img style="margin-top:-16px;" src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a></li>
 </ul>
 <br>
