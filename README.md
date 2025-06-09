@@ -7,7 +7,7 @@
   <li>💼 I'm currently pursuing a <b>Master of Science - MSc in Software Systems Engineering Degree at University College London</b></li>
   <li>❤  Priorly I was a SDE 2 at Bajaj Markets, <b>GitHub Extern for the Winter Cohort 2022, Software Engineer (part-time) for Appwrite after the GitHub externship </b> and a <b>GSoC'22 Student Developer at Apache Software Foundation.</b><br>(There are other companies I worked with where I learnt and contributed plenty during my time there, if you are interested to know more please check me out on Linkedin)</li>
   <li>👀 I enjoy deploying web applications and interacting with coding communities</li>
-  <li>🌱 I have keen interests in Open source, motion design , cloud computing , web development, data analytics and OpenCV.</li>
+  <li>🌱 I have keen interests in Open source, cloud computing , web development, data analytics and data engineering.</li>
   <li>💞️ I’m looking forward to collaborate on any emerging technologies. </li>
   <li>😸 I love learning/exploring upcoming and trending technologies and always look forward to implement some cool project ideas on the same.</li>
   <li>📫 If you have a project idea in mind, hit me up! let's develop something cool together !!</li>
