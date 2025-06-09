@@ -30,7 +30,7 @@
 <p>At the moment I'm mastering my  <b> coding skills.</b> I'm also exploring innovative domains such as generative AI, data analytics, OpenCV, and cloud computing outside my degree.🚀</p>
 <h3 align="left">Know my stats 👀</h3>
 <img  src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif"><br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p>
+<!---<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=everly-gif&show_icons=true&locale=en" alt="everly-gif" ></p>-->
 
 
 
